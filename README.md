@@ -1,1 +1,2 @@
 # Supermart-Management-System
+"This project focuses on a Supermarket Management System with various modules including Inventory Management, Sales Management, Purchase Management, Customer Management, Employee Management, and Supply Chain Reliability. Each module allows users to perform operations such as adding, editing, deleting, searching, and viewing data. The system aims to streamline supermarket operations and enhance efficiency in managing inventory, sales, purchases, customers, employees, and supply chain logistics."
